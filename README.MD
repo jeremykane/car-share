@@ -8,6 +8,14 @@
 	* Email : sb-hdqv63235340@personal.example.com
 	* Password : 6q:S#iCc
 
+## Admin Account Details (For Admin Feature):
+	* Account 1 :
+		- Email : admin-user-1@admin.com
+		- Password : adminpassword
+	* Account 2 :
+		- Email : admin-user-2@admin.com
+		- Password : adminpassword
+
 ## Important Commands:
 	* Frontend :
 		- Install Modules - npm install
